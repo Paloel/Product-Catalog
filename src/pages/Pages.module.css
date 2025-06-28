@@ -1,0 +1,40 @@
+.pageContainer {
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 0 20px;
+}
+
+.pageTitle {
+  font-size: 2.5em;
+  color: #333;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.loading, .error, .notFound, .noResults {
+  text-align: center;
+  font-size: 1.2em;
+  color: #666;
+  padding: 50px;
+}
+
+.error {
+  color: #d9534f;
+  font-weight: bold;
+}
+
+.searchBar {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1.1em;
+  margin-bottom: 25px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .pageTitle {
+    font-size: 2em;
+  }
+}
