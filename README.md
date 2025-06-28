@@ -12,6 +12,7 @@ Este é um projeto simples de catálogo de produtos desenvolvido com React, que 
 ![HomePage](https://github.com/user-attachments/assets/d03764eb-251f-4d55-bdd1-1d860172826f)
 
 Página de favoritos (/favorites)
+![FavPage](https://github.com/user-attachments/assets/03cf2917-1b86-4716-9de3-1a22058fefc7)
 
 🚀 Tecnologias Utilizadas
 React
